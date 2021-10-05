@@ -6,7 +6,7 @@
 
 ![](img/Progress.jpg)
 
-![](img/SaleDepNavi.jpg)
+![](img/SaleDepNavi.jpeg)
 
 
 
