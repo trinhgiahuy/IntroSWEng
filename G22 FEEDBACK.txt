@@ -1,0 +1,3 @@
+Nice introduction/ recap about the frame story and current situation
+You have clear requirement gathering plan considering what has been done and when which is really nice.
+Time is perfectly guaranteed.However, I think you should clarify more about the User Interface, which is also fundamental partion compared to ohters.

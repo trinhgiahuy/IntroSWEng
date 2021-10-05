@@ -1,0 +1,23 @@
+Usa case : Post a video
+
+Precondition: 
+The video should be recorded previously and stored in phone in correct format and can be edited first.
+
+
+Description:
+Select the ADD button at the main page. Then user can find the video from phone camera roll. Just click to the
+video abd start uploading it. The user write the caption and share their video so that other can see. Also the user
+can directly record their video on app with some really good feature and music.
+
+[Exception 1: The user want to tag other user in the tag]
+
+
+End result: 
+The image has been shared with an appropriate caption so that the user's followers can see and interact with their video
+
+
+
+Exception 2: The user has no internet connection so the post can be saved as a drapt for later upload.
+
+
+

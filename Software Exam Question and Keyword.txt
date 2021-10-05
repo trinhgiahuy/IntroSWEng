@@ -1,0 +1,184 @@
+Refactoring code means team's expert correct novice coder's work
+Refactoring code mean you add more comment to code.
+						you improve sources's internal structure 
+						
+						
+When refactoring code, i.e re-write long "brute force" function to shorter elegant form
+
+
+Agile project, as alway unexpected surprise.
+
+Adding more people on project mean more late just because of workers' different background
+
+Diffrent stakeholder often have contradicting requirement and needs.
+
+W/KARBAN is tool for gathering user requirement
+
+R/ VAlidation means checking "are we building the right product"
+R/Verification means checking "are we building the product right"
+
+
+W/ Code smell means i.e one-lettter variable name
+
+R/ Extreme programming (XP) aims for high quality software
+							aims for high-speed software development
+							
+
+							
+W/ Agile project, need to write documentation
+
+Continuous iteration (CI) is one pratice in DevOps
+
+W/Software development is successful better if user not involve in
+
+Milestones/Gates are example pointss when you may stop project or call timeout
+
+Maintainability is one Software Product Quality factor
+
+W/Spreadsheet (i.e Excel) is one good "tool" on software project
+
+R/At risk management, risk_size*time = impact
+
+Technical debt means that you i.e use constant instead of variable to make a demo
+
+In software project , there is some testing and documentation
+
+At Agile project Product Owner tell which Sprint Backlog items team work with
+
+Agille means taking customer's new feature and changes into account during the project
+
+R/UAT(User Acceptance Test) would be done before System Testing 
+
+R/Code smell means ie lot of dupplication code
+Code smell means i.e few comments and long method
+
+Configuration management is need only for extra-large software project
+
+Agile development, Scrum Master's task is to make team's working easy
+
+Ambition diffrence may hurt project work
+
+Outsourcing means that you hire university student to your software development team
+						re-use third-party software component
+						
+						
+Motivational low points (pits/gaps) usually appear after proj start
+
+Adding more ppl into proj mean more late due to communication issue
+
+Definition of Done (DoD) means : ie the feature that must be checked against requirements
+							    : the feature must be peer-review and unit test
+								
+At Scrum, you are suppose to work in several agile proj at the same time
+
+W/At Scrum, you are suppose to work overtime (evening or weekend) until get work item finished
+
+At Scum, at end of every Sprint, there should be a demoable product version
+
+Project cost estimation is most improtant parameter in software development
+
+Every life cycle model has some Requiremetn specification and User involvement
+
+Project Pian considered as "group contact"
+
+At Scrum, Sprint Backlog include Product Backlog
+
+Off-shoring means that work done at another country
+
+Accoring to agile principle and Agile Manifesto, customer may suggest change and new feature at any time during development
+												 you put more value to working sw than comprehensive documentation
+												 you put more value to customer collaboration than documentation
+												 
+												 
+On effort estimation, old project's final report are good help
+
+W/Integration test would be done before UNIT test
+
+Waterfail software development model may suit well eg for old system which will be transfered to new hardware environent
+
+Product Master and  Scrum Manager are typical roles at Scrum
+
+W/Diffrence btw "Iterative" and "Incremental" process model is that inceremental model 
+you publish that phase product after iteration
+
+R/In Scrum proj , you may add feature to Product Backlog during the project
+
+R/One important Project Manager 's task is to motivae ppl/group/team
+
+R/In a good team, every know who are the responsible person
+
+Customer need to involve in Scrum project
+
+R/Bumdown char describe how much work has been done and how much is still left
+
+R/Cultural difference may hurt project working
+
+R/Large gr.team have more communication problem than small ones
+
+Not all Agile project are successful
+
+Agile development (according to Agile principle) is to satisfy customer
+
+Product team and Scrum Owner are typical roles at Scrum
+
+Product Manager and Product Owner typical role at Scrum
+
+W/At Pair Programming , novice does coding and expert teach and correct
+
+aT pLANNING Poker main idea is to deine lowest highest value
+
+Bumup chart and Bumdown chart describe same matters
+
+In Scrum, at the end of proj , there some items left in Product Backlog
+
+Project Manager is improtant person at Scrum
+
+Good team, everybody know what is the goal
+
+Every software development process should have some kind of Quality Handbook
+
+Module test is the same as Unit test
+
+Smoke Test is same as System Test
+
+At Agile proj, you need not to have fixed ad detail development plan
+/W				you need not to discuss with customer
+
+
+Motivational lowpoint (pits/gaps) appear because of customer action
+
+Security is one Software Product Quality factor
+
+Every project there are 2 or 3 motivational lowpoint (dlps/pits)
+
+Self-organising gr.team are a myth or urban legend
+
+Bumup chart describe how much work has been done and how much is still left
+
+"Scrum-BUT" method may mean that you use Scrum without daily stand-up meetings
+"Scrum-BUT" 					you modify Scrum for your development process
+
+
+At Agile proj , Scrum master tell which Sprint Backlog items team work with
+
+W/Ad-hoc testing is enough for a small software product
+
+Bumdown chart describe to the team the status of the project
+
+Strong will may hurt project working
+
+Every year many fail project mainly because of poor tools
+
+REview or inspection for code should be done before Unit testing 
+
+"If you are using agile methods "by the book", you are not agile"
+
+Work Breakdown Structure (WBS) mean dividing work to calendar weeks
+
+Motivational lowpoint (pits/gaps) may appear after holiday break
+
+
+
+
+
+
