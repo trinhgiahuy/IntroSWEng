@@ -2,7 +2,7 @@
 
 ![](img/Final.jpg)
 
-![](img/Phase2 Progress.jpg)
+![](img/Phase2Progress.jpg)
 
 ![](img/Progress.jpg)
 
