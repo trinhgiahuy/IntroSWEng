@@ -1,0 +1,42 @@
+Funtional requirements.
+
+Students can choose food with restricted quantity.
+The software announces the estimated time for delivering food.
+The software loads the money in Smart Student Cards of student for payment.
+The software sends confirmnation email after the user ordered.
+Student can cancel the order within 10 minutes.
+Only management of restaurent can see the sales information, update menu and discount
+information.
+
+Non-functional requirements.
+
+The software remembers the food chosen by student when student log out of the system and
+not already order.
+The software should be capable enough to handle 5000 thousands users without affecting to
+its performance.
+Transaction data must be encreypted.
+The software has two language displayed that are English and Finnish.
+
+Restrictions.
+
+Suport difference operating system Android, iOS.
+The data of student should not be used by third-order party.
+Project budget within 50000 Euros.
+
+Complete the project requirements and planning => Prevent the project from rescheduling if something strange was not mention in the beginning.
+Decision making and taking responsibility => Help the project move faster on the right line and encourage subordinates to perform better.
+Evaluate, congratulate and punish => Equality between team members. Awards will push each individual ‘s desire higher so that they will dedicate more, but punishment is there as well.
+Technical and life (physical and mental) help => Better experience for team members.
+
+Plan each phase of the project carefully and prepare the sparse time for completed the project for situation there are
+unexpected thing such as bug or change in requirements.
+
+Plan the meeting to the stakeholders regularly to update the requirements.
+
+Estimate the cost of the project must be within the budget. If when the project is going and the cost is over the budget
+we must reevaluate the project and remove some part for reduce cost.
+
+Evaluate the scale of the project for choosing suitble number of employees and method of bulding
+the software.
+
+Evaluate the strong and weakness of team member to create a suitable team for working efficiency.

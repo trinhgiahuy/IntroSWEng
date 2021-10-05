@@ -1,0 +1,12 @@
+- Map API: Get data from Google Map => Copyleft
+- Collecting data component: Permissive
+- Data classifier: proprietary
+- User profile manager: proprietary
+- UI: public domain
+- Report generator: LGPL
+- Simulator: LGPL
+- Analytic tool: LGPL
+- Data search engine: public domain
+- Data visualizer: public domain
+- Buy ticket online: Copyleft
+- 
